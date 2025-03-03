@@ -43,3 +43,37 @@
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/KrDev0/Format.com.git
+2. Abre la solución en Visual Studio.
+
+3. Compila el proyecto.
+
+4. Una vez compilado es necesario crear y ejecutar la siguiente clave de registro para poder utilizar el software desde el menu contextual de Windows
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Drive\shell\format]
+@="Formatear..."
+
+[HKEY_CLASSES_ROOT\Drive\shell\format\command]
+@="\"D:\\KrDev\\Escritorio\\Format.com\\Format.com\\bin\\Debug\\df.exe\" \"%1\""
+
+
+Contribuciones
+¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+
+2. Crea una rama para tu contribución (git checkout -b feature/nueva-funcionalidad).
+
+3. Realiza tus cambios y haz commit (git commit -m 'Añade nueva funcionalidad').
+
+4. Haz push a la rama (git push origin feature/nueva-funcionalidad).
+
+5. Abre un Pull Request en GitHub.
+
+Licencia
+Este proyecto está bajo la Licencia MIT.
+Consulta el archivo [LICENSE](license/) para más detalles.
+
+Enlace al Repositorio
+El código fuente de Format.com está disponible en GitHub:
+[GitHub](https://github.com/KrDev0/Format.com)
