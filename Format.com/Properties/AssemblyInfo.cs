@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
 [assembly: AssemblyTitle("Format.com")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Herramienta de formateo similar a la herramienta de formateo nativa de Windows desarrollada en C#.NET")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("KrDev")]
 [assembly: AssemblyProduct("Format.com")]
-[assembly: AssemblyCopyright("Copyright ©  2025")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright ©  2025 KrDev")]
+[assembly: AssemblyTrademark("KrDev")]
 [assembly: AssemblyCulture("")]
 
 // Si establece ComVisible en false, los tipos de este ensamblado no estarán visibles 
