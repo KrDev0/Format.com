@@ -23,7 +23,7 @@
 ## Uso
 
 1. **Descarga**: Clona el repositorio o descarga el ejecutable desde [Releases](https://github.com/KrDev0/Format.com/releases).
-2. **Instala**: Abre la aplicación `Format.com.exe`.
+2. **Instala**: Abre la aplicación `DriveFormat.exe`.
 3. **Selecciona la unidad**: Elige la unidad USB que deseas formatear.
 4. **Configura**: Selecciona el sistema de archivos y el nombre de la unidad.
 5. **Formatea**: Haz clic en "Formatear" y espera a que el proceso termine.
